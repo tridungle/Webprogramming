@@ -1,0 +1,40 @@
+-- phpMyAdmin SQL Dump
+-- version 2.6.2-pl1
+-- http://www.phpmyadmin.net
+-- 
+-- Host: localhost
+-- Generation Time: May 04, 2012 at 11:39 AM
+-- Server version: 5.0.77
+-- PHP Version: 5.3.3
+-- 
+-- Database: `s3357663`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `ournews`
+-- 
+
+CREATE TABLE `ournews` (
+  `id` int(100) NOT NULL auto_increment,
+  `type` varchar(100) NOT NULL,
+  `introtext` varchar(256) NOT NULL,
+  `content` varchar(500) NOT NULL,
+  `image` varchar(256) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=10 DEFAULT CHARSET=latin1 AUTO_INCREMENT=10 ;
+
+-- 
+-- Dumping data for table `ournews`
+-- 
+
+INSERT INTO `ournews` VALUES (1, 'news', 'Children week! Join us.', 'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bono', 'aaa');
+INSERT INTO `ournews` VALUES (2, 'news', 'New Coffee Lounge!', 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ''Content here, content here'', making it look like readable English. Many desktop publishing packages and web page ', '');
+INSERT INTO `ournews` VALUES (3, 'news', 'One year Anniversary !', 'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,', '');
+INSERT INTO `ournews` VALUES (4, 'news', 'Bonus! Buy one get two !', 'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum ', '');
+INSERT INTO `ournews` VALUES (6, 'location', 'Nguyen Dinh Chieu', 'to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was p', '');
+INSERT INTO `ournews` VALUES (7, 'location', 'Cao Thang', ' embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the firs', '');
+INSERT INTO `ournews` VALUES (8, 'learn', 'How to book from our site', ' to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.', '');
+INSERT INTO `ournews` VALUES (9, 'learn', 'How to change theme', 'he standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum"', '');
+        

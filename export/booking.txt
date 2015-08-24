@@ -1,0 +1,14 @@
+CREATE TABLE `booking` (
+  `id` int(10) NOT NULL auto_increment,
+  `name` varchar(50) NOT NULL,
+  `date` varchar(10) NOT NULL,
+  `time` varchar(10) NOT NULL,
+  `numbguess` varchar(3) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+
+-- 
+-- Dumping data for table `booking`
+-- 
+
+        

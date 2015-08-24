@@ -1,0 +1,14 @@
+CREATE TABLE `footer` (
+  `id` int(50) NOT NULL auto_increment,
+  `name` varchar(50) NOT NULL,
+  `htmltext` mediumtext NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+
+-- 
+-- Dumping data for table `footer`
+-- 
+
+INSERT INTO `footer` VALUES (1, 'contact           ', '<p>\r\n	<b>Ngo Tan Thinh:</b> Owner of CiFFEE<br />\r\n	<u>email</u>:<a href="">ngotanthinh92@gmail.com</a><br />\r\n	<b>Dao Tien Minh:</b> Manager of CiFFEE<br />\r\n	<u>email</u>: <a href="">minhdao6@gmail.com </a></p>\r\n');
+INSERT INTO `footer` VALUES (2, 'contactrmit', 'RMIT Viet Nam <br />\r\n										02 Nguyen Van Linh <br />\r\n										District 7, Ho Chi Minh City <br />\r\n										Tel: (+848) 3776 1300 <br />\r\n										Fax: (+848) 3776 1399 <br />');
+        

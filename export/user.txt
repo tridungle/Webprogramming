@@ -1,0 +1,17 @@
+===Database s3357678
+
+== Table structure for table user
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|email|varchar(100)|No|
+|username|varchar(50)|No|
+|password|varchar(50)|No|
+== Dumping data for table user
+
+|1|minhdao6@gmail.com|admin|98b559f8c686c1ab7b45754a0037dea8
+|2|thinh@gmail.com|thinh|202cb962ac59075b964b07152d234b70
+|3|jay_hanyoong@yahoo.com|teo|caf1a3dfb505ffed0d024130f58c5cfa
+|5|jay|thinhminhabcd|202cb962ac59075b964b07152d234b70

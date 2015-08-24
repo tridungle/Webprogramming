@@ -1,0 +1,36 @@
+-- phpMyAdmin SQL Dump
+-- version 2.6.2-pl1
+-- http://www.phpmyadmin.net
+-- 
+-- Host: localhost
+-- Generation Time: May 04, 2012 at 11:38 AM
+-- Server version: 5.0.77
+-- PHP Version: 5.3.3
+-- 
+-- Database: `s3357663`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `comment`
+-- 
+
+CREATE TABLE `comment` (
+  `id` int(100) NOT NULL auto_increment,
+  `username` varchar(100) NOT NULL,
+  `avatar` varchar(256) NOT NULL,
+  `foodtype` varchar(256) NOT NULL,
+  `introtext` varchar(256) NOT NULL,
+  `comment` varchar(1000) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=28 DEFAULT CHARSET=latin1 AUTO_INCREMENT=28 ;
+
+-- 
+-- Dumping data for table `comment`
+-- 
+
+INSERT INTO `comment` VALUES (5, 'thinh', '', 'Coffee', 'Mexican black milk coffee              ', 'This is gooddddd');
+INSERT INTO `comment` VALUES (27, 'admin', '', 'Coffee', 'Mexican black milk coffee', '&lt;?php\r\ngoodddd\r\n?&gt;');
+INSERT INTO `comment` VALUES (26, 'admin', '', 'Coffee', 'Mexican black milk coffee', '&lt;script&gt;\r\nHEHEHE hacker');
+        

@@ -1,0 +1,58 @@
+Image top
+
+	http://www.cuisinartcoffeemakerc.com/wp-content/uploads/2012/01/coffee-banner.png
+	http://zialala.com/images/coffeeBanner.jpg
+
+image background: 
+	http://spanish4teachers.org/blog1/wp-content/uploads/2010/06/Spanish_AB_Initio_Oral_Assessment_Coffee_Shop_Cafeteria_2010.jpg
+
+image menu: 
+	http://i.istockimg.com/file_thumbview_approve/7815049/2/stock-illustration-7815049-brown-coffee-banners.jpg
+
+
+menudrink
+
+	http://www.who-sucks.com/food/101-frightening-ice-cream-flavors-from-around-the-world	
+	http://www.drinkstreet.com/category.cgi?category=5
+
+image special offer: 
+	http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Strawberry_milkshake.jpg/220px-Strawberry_milkshake.jpg
+	http://www.akworld.net/webblog/wp-content/uploads/2007/12/cafe_con_leche.jpg
+
+image NEW: 
+	http://www.depnhumoi.com.vn/images/stories/new_icon.gif
+
+image - place: 
+		http://www.brewsco.i.ph/photo/d/163-1/Andalucia+the+Coffee+Place.JPG
+	       http://media-cdn.tripadvisor.com/media/photo-s/01/17/04/77/cranford.jpg
+	       http://islandeditions.files.wordpress.com/2010/01/coffee-shop-author-weeds-0022.jpg
+
+image footer:  
+	http://silverbridgecoffee.com/images/coffee-banner1.jpg
+
+image banner: 
+	http://i955.photobucket.com/albums/ae40/coojoc/coffee-banner.jpg
+
+image logo:
+	http://imgs.abduzeedo.com/files/articles/logo-design-coffee/402d1368c6bb70fae8a343811916e383.png
+
+image button:
+	 http://image.shutterstock.com/display_pic_with_logo/169/169,1234826323,2/stock-vector-coffee-and-hot-beverages-button-set-25086793.jpg
+
+media player: 
+	http://www.alsacreations.fr/dewplayer.html
+
+music: 
+	http://mp3.zing.vn/bai-hat/Coffee-Feather-And-Down/ZWZF8WFZ.html
+
+full-size bg zoom: 
+	http://bavotasan.com/2011/full-sizebackground-image-jquery-plugin/
+
+Source code: 
+	www.w3schools.com
+
+Visual slideshow: 
+	visualslideshow.com
+
+Jquery tabs: 
+http://jquery.com/
